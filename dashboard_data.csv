@@ -1,0 +1,31 @@
+fault_name,max_safe_repair_cost,estimated_repair_cost,anomaly_deviation_pct,sensor_confidence,occurrence_count,preventive_savings,anomaly_score,savings_score,confidence_score,frequency_score,priority_score,severity_category
+P0300 Random/Multiple Cylinder Misfire Detected (Engine System),18000,6500,78.5,4.8,48520,11500,78.5,20.12,96.0,66.45,65.87,High
+P0420 Catalyst System Efficiency Below Threshold Bank 1 (Exhaust),35000,14500,64.2,4.7,62410,20500,64.2,37.87,94.0,86.05,69.44,High
+P0171 System Too Lean Bank 1 - Vacuum or MAF Sensor Fault (Fuel/Air),12000,3800,68.3,4.6,53840,8200,68.3,13.61,92.0,73.96,61.68,High
+P0118 Engine Coolant Temperature Sensor 1 Circuit High (Cooling),8500,2200,74.1,4.5,28930,6300,74.1,9.86,90.0,38.81,54.96,Moderate
+C0035 Left Front Wheel Speed Sensor Supply Circuit Fault (ABS/Brakes),15000,4500,70.0,4.8,34450,10500,70.0,18.15,96.0,46.6,58.86,Moderate
+P0562 System Voltage Low - Alternator/Battery Charging Failure (Battery),22000,7800,64.5,4.9,41540,14200,64.5,25.44,98.0,56.6,61.53,High
+P0700 Transmission Control System Malfunction - Solenoid Pack (Transmission),65000,28500,56.2,4.7,19620,36500,56.2,69.43,94.0,25.68,62.85,High
+P0101 Mass or Volume Air Flow (MAF) Sensor Range/Performance (Engine),11000,4200,61.8,4.5,31200,6800,61.8,10.85,90.0,42.01,52.15,Moderate
+B1000 ECU Internal Electronic Malfunction - Minor Glitch (Electronics),9500,8200,13.7,3.4,1420,1300,13.7,0.0,68.0,0.0,21.11,Low
+P0217 Engine Coolant Overtemperature Condition - Immediate Stop (Cooling),28000,4200,85.0,4.9,38890,23800,85.0,44.38,98.0,52.86,71.67,High
+P0135 O2 Sensor Heater Circuit Bank 1 Sensor 1 Failure (Exhaust),9000,3500,61.1,4.4,64210,5500,61.1,8.28,88.0,88.59,60.12,High
+C0265 EBCM Electronic Brake Control Module Relay Circuit (ABS/Brakes),32000,16500,48.4,4.6,22400,15500,48.4,28.01,92.0,29.6,50.44,Moderate
+P0301 Cylinder 1 Misfire Detected - Ignition Coil / Spark Plug (Engine),8000,2800,65.0,4.7,57900,5200,65.0,7.69,94.0,79.68,60.86,High
+P0455 Evaporative Emission System Leak Detected - Large Leak (Fuel/Air),6500,1800,72.3,4.3,72300,4700,72.3,6.71,86.0,100.0,64.87,High
+P0500 Vehicle Speed Sensor (VSS) Signal Circuit Malfunction (Transmission),9500,4100,56.8,4.4,38100,5400,56.8,8.09,88.0,51.75,51.41,Moderate
+U0100 Lost Communication With ECM/PCM 'A' CAN Bus Fault (Electronics),25000,9500,62.0,4.6,29200,15500,62.0,28.01,92.0,39.19,56.44,Moderate
+P0335 Crankshaft Position Sensor 'A' Circuit Malfunction (Engine),14000,5200,62.9,4.7,36750,8800,62.9,14.79,94.0,49.84,56.04,Moderate
+P0011 'A' Camshaft Position - Timing Over-Advanced Bank 1 (Engine),24000,11500,52.1,4.5,24840,12500,52.1,22.09,90.0,33.04,50.26,Moderate
+P0128 Coolant Thermostat (Coolant Temp Below Regulating Temp) (Cooling),7500,2900,61.3,4.4,58900,4600,61.3,6.51,88.0,81.09,58.24,Moderate
+P0A80 Replace Hybrid/EV Battery Pack - Cell Voltage Imbalance (Battery),120000,68000,43.3,4.9,15400,52000,43.3,100.0,98.0,19.72,66.43,High
+C0040 Right Front Wheel Speed Sensor Circuit Malfunction (ABS/Brakes),15000,4600,69.3,4.7,28920,10400,69.3,17.95,94.0,38.8,56.54,Moderate
+P0401 Exhaust Gas Recirculation (EGR) Flow Insufficient Detected (Exhaust),13500,4800,64.4,4.3,41400,8700,64.4,14.6,86.0,56.41,55.75,Moderate
+P0741 Torque Converter Clutch Circuit Performance or Stuck Off (Transmission),48000,24500,49.0,4.6,18600,23500,49.0,43.79,92.0,24.24,53.5,Moderate
+B0001 Driver Frontal Stage 1 Deployment Control SRS Airbag Fault (Safety/SRS),26000,8900,65.8,4.8,45400,17100,65.8,31.16,96.0,62.05,63.94,High
+P0230 Fuel Pump Primary Circuit Malfunction - Low Fuel Pressure (Fuel/Air),19500,7500,61.5,4.6,37500,12000,61.5,21.1,92.0,50.9,56.9,Moderate
+P0520 Engine Oil Pressure Sensor/Switch Circuit Malfunction (Engine),16000,4900,69.4,4.8,51200,11100,69.4,19.33,96.0,70.23,63.7,High
+U0121 Lost Communication With Anti-Lock Brake System (ABS) Module (Brakes),29000,12500,56.9,4.7,26400,16500,56.9,29.98,94.0,35.24,55.11,Moderate
+P0620 Generator/Alternator Control Circuit Malfunction (Battery),18500,8900,51.9,4.5,31200,9600,51.9,16.37,90.0,42.01,50.56,Moderate
+C0550 Electronic Control Unit (ECU) Performance - Steering Angle (Suspension),34000,16500,51.5,4.4,14300,17500,51.5,31.95,88.0,18.17,49.07,Moderate
+P0172 System Too Rich Bank 1 - Leaking Fuel Injector Fault (Fuel/Air),17500,6800,61.1,4.5,27850,10700,61.1,18.54,90.0,37.29,52.92,Moderate
